@@ -1,27 +1,7 @@
 
 # dotfiles by mevemo
 
-This repository contains my personal dotfiles for Unix-like systems, including Linux and macOS. These dotfiles are used to set up and customize my development environment.
-
-## Getting Started
-
-Below are instructions for using these dotfiles to replicate my development environment on your own system.
-
-### Prerequisites
-
-You should have the following software installed on your system before using these dotfiles:
-
-- Vim, Neovim
-- Tmux
-- Zsh
-
-On a Debian-based Linux, you can install these using the following command:
-
-```sh
-sudo apt-get install vim neovim tmux zsh
-```
-
-### Installation
+## Installation
 
 To use these dotfiles, clone this repository to your local machine:
 
@@ -37,18 +17,6 @@ ln -s $(pwd)/.vimrc ~/.vimrc
 ln -s $(pwd)/.tmux.conf ~/.tmux.conf
 ln -s $(pwd)/.zshrc ~/.zshrc
 ```
-
-### Usage
-
-Once the dotfiles are installed, they will automatically be used by Vim, Neovim, Tmux, and Zsh.
-
-For example, to see the effects in Vim, simply open it from the terminal:
-
-```sh
-vim
-```
-
-The same can be done with Neovim, Tmux, and Zsh.
 
 ## Included Configurations
 
