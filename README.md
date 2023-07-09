@@ -1,5 +1,7 @@
 
-# dotfiles by mevemo
+# dotfiles
+
+I'm still gathering well written dotfiles and want to collect and share them with you.
 
 ## Installation
 
