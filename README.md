@@ -1,7 +1,7 @@
 
 # dotfiles
 
-I'm still gathering well written dotfiles and want to collect and share them with you.
+I'm going all vanilla these days. But if you like to use these, feel free. :)
 
 ## Installation
 
@@ -38,5 +38,3 @@ This is a personal dotfiles repository, and contributions will generally not be 
 - Thanks to the creators and contributors to Vim, Neovim, Tmux, and Zsh.
 - All the open-source community where I found inspiration and guidance.
 ```
-
-Again, please adjust it to match your actual setup and preferences.
